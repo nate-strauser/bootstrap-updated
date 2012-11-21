@@ -4,6 +4,8 @@ This is a drop-in replacement for meteor's core bootstrap package. It doesn't do
 
 The idea is that this package should be updated more frequently than core.
 
+Also fixes the white icons bug.
+
 ## Usage Example
 
 Have some files like these:
